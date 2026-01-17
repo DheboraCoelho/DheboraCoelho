@@ -71,6 +71,7 @@ Deploy via Netlify para exibição de projetos
 
 ## 📜 Certificação
 - Cisco **CCST Cybersecurity**
+- Cisco **CSST Networking** 
 
 ---
 
