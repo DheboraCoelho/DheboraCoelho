@@ -44,21 +44,183 @@ Estou construindo minha jornada em tecnologia e adorando criar projetos que comb
 ## 🛠️ Linguagens e Tecnologias
 
 ### 🔤 Linguagens
-<p>
-  <img src="https://custom-icon-badges.demolab.com/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://custom-icon-badges.demolab.com/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" />
-</p>
+<img 
+    align="left" 
+    alt="C#"
+    title="C#"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+<img 
+    align="left" 
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="SQL"
+    title="SQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="CSS"
+    title="CSS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+
+
+<br clear="left"/>
 
 ### 🧩 Frameworks e Ferramentas
-<p>
-  <img src="https://custom-icon-badges.demolab.com/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-8741f7?style=for-the-badge&logo=visualstudio&logoColor=white" />
-</p>
+<img 
+    align="left" 
+    alt="ASP.NET Core"
+    title="ASP.NET Core"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Unity"
+    title="Unity"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Visual Studio"
+    title="Visual Studio"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Trello"
+    title="Trello"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Netlify"
+    title="Netlify"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="SQL Server"
+    title="SQL Server"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+/>
+<img 
+    align="left" 
+    alt="Expo"
+    title="Expo"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg"
+/>
+<img 
+    align="left" 
+    alt="React Native"
+    title="React Native"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Blender"
+    title="Blender"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"
+/>
+
+<br clear="left"/>
 
 ---
 
