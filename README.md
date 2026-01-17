@@ -224,32 +224,38 @@ Estou construindo minha jornada em tecnologia e adorando criar projetos que comb
 
 ---
 
-## 🎮 Jogos & Projetos Acadêmicos
-
-### 🕹️ Jogos Educativos e Interativos – Unity & C#
-- Protótipos em 2D  
-- Interatividade e lógica de fases  
-- Scripts organizados em C#  
-- UI e experiência simples  
-
-### 🌐 Portfólio Web
-Site criado com HTML, CSS e JS  
-Deploy via Netlify para exibição de projetos  
-
-📌 Explore meus repositórios no GitHub!
-
----
-
 ## 🎓 Formação
 - Engenharia de Software – UEPA (em andamento)
 - Técnico em Informática – IFPA
 - Tecnólogo em Gestão Pública – Estácio
+- Técnico em Desenvolvimento e Programação de Jogos - SENAC-PA
 
 ---
 
 ## 📜 Certificação
 - Cisco **CCST Cybersecurity**
 - Cisco **CSST Networking** 
+
+---
+## 📊 Estatísticas
+<p>
+  <img 
+    align="left"
+    src="https://github-stats-rosy.vercel.app/api/stats.js?username=dheboracoelho"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+  />
+
+  <img 
+    align="left"
+    src="https://github-stats-rosy.vercel.app/api/languages.js?username=dheboracoelho"
+    alt="Top Languages"
+    height="200"
+  />
+</p>
+
+<br clear="left"/>
 
 ---
 
